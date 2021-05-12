@@ -1,0 +1,131 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+
+.start li
+{
+    display: inline;
+
+}
+
+.start .navbtn
+{
+    border: solid rgba(155, 183, 236, 0.979) 2px;
+    color:white;
+    border-radius: 5px;
+    background-color:  rgba(155, 183, 236, 0.979);
+}
+
+.a 
+{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.start .logo
+{
+    font-weight: bolder;
+    position: relative;
+    left: -30px;
+}
+
+.start li a
+{
+    text-decoration: none;
+    color: black;
+ margin-left: -21px;
+ margin-right: 48PX;
+ position: relative;
+ left: 721px;
+}
+
+.rbar .para
+{
+    font-size: large;
+    text-align: center;
+    margin-top: 47px;
+    top: -18px;
+    POSITION: RELATIVE;
+}
+
+.img img
+{  background-size: 100% 100%;
+    width: 100%;
+    height: 400px;
+    opacity: 0.9;
+    /* left: 50px; */
+}
+
+.parap
+{
+    font-size: large;
+}
+
+.inline
+{
+    margin-left: 7px;
+}
+
+.first, .second
+{
+    
+    display: inline-block;
+    width: 500px;
+    text-align: center;
+margin-left: 100px;
+}
+
+.picone img, .pictwo img
+{
+    border: grey solid 1px;
+    border-radius: 5px;
+    height: 268px;
+    width: 558px;
+}
+
+.btn1, .btn2
+{
+    padding: 10px;
+    border: solid grey 1px;
+    background-color: transparent;
+}
+
+.final
+{
+    opacity: 0.8;
+    margin-top: 40px;
+    background-color: grey;
+    height: 350px;
+    
+}
+
+
+.fone, .ftwo, .fthree
+{ 
+    margin-left: 100px;
+    margin-top: 40px;
+    color: black;
+   
+    display: inline-block;
+}
+
+.fone, .ftwo
+{
+    width: 200px;
+}
+
+.fthree
+{
+    width: 600px;
+    position: relative;
+    top: -117px;
+}
+
+.fthree i
+{
+    padding: 10px;
+    font-size: 20px;
+}

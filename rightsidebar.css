@@ -1,0 +1,197 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+
+.start li
+{
+    display: inline;
+
+}
+
+.start .navbtn
+{
+    border: solid rgba(155, 183, 236, 0.979) 2px;
+    color:white;
+    border-radius: 5px;
+    background-color:  rgba(155, 183, 236, 0.979);
+}
+
+
+
+.start .logo
+{
+    font-weight: bolder;
+    position: relative;
+    left: -30px;
+}
+
+.start li a
+{
+    text-decoration: none;
+    color: black;
+ margin-left: -21px;
+ margin-right: 48PX;
+ position: relative;
+ left: 721px;
+}
+.left
+{
+    position: relative;
+    top: -140px;
+    left: 930px;
+}
+
+.lbar .para
+{
+ font-size: large;
+    text-align: center;
+    position:relative;
+    top:10px;
+position: relative;
+left: 305px;
+}
+
+.left .lbar1 p{
+    text-align: justify;
+    width: 304px;
+}
+
+.left .btn
+{
+     background-color: white;
+     color:black;
+     padding: 10px;
+     border: solid 1px grey;
+}
+
+.hr
+{
+    width: 304px;
+    position: relative;
+    left: -529px;
+    top: 30px;
+    bottom: 30px;
+}
+
+.left1
+{
+    position: relative;
+    top: -95px;
+    left: 925px;
+       
+}
+.left1 .atag hr
+{  
+    
+    position: relative;
+    width: 304px;
+    left: -522px;
+}
+
+.left1 a
+{
+   color: rgba(167, 186, 223, 0.979)
+}
+.pic
+{
+    height: 180px;
+}
+
+.pic .title
+{
+    font-size: large;
+    position: relative;
+    left: 75px;
+    top: 55px;
+}
+.pic .pic1
+{
+    background-image: url("https://cdn.pixabay.com/photo/2020/12/02/10/28/mountains-5796973_960_720.jpg");
+    background-size: 100% 100%;
+    width: 56%;
+    height: 300px;
+    top: 50px;
+    position: relative;
+    left: 75px;
+
+}
+
+.para
+{
+    position: relative;
+    left: 90px;
+    width: 57%;
+    top: 95px;
+    text-align: justify;
+
+}
+
+.inline
+{
+    margin-left: 7px;
+}
+
+.first, .second
+{
+    
+    display: inline-block;
+    width: 500px;
+    text-align: center;
+margin-left: 100px;
+}
+
+.picone img, .pictwo img
+{
+    border: grey solid 1px;
+    border-radius: 5px;
+    height: 268px;
+    width: 558px;
+}
+
+.btn1, .btn2
+{
+    padding: 10px;
+    border: solid grey 1px;
+    background-color: transparent;
+}
+
+.final
+{
+    opacity: 0.8;
+    margin-top: 40px;
+    background-color: grey;
+    height: 350px;
+    
+}
+
+
+.fone, .ftwo, .fthree
+{ 
+    margin-left: 100px;
+    margin-top: 40px;
+    color: black;
+   
+    display: inline-block;
+}
+
+.fone, .ftwo
+{
+    width: 200px;
+}
+
+.fthree
+{
+    width: 600px;
+    position: relative;
+    top: -117px;
+}
+
+.fthree i
+{
+    padding: 10px;
+    font-size: 20px;
+}

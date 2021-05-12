@@ -1,0 +1,348 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+
+.start li
+{
+    display: inline;
+
+}
+
+.start .navbtn
+{
+    border: solid rgba(155, 183, 236, 0.979) 2px;
+    color:white;
+    border-radius: 5px;
+    background-color:  rgba(155, 183, 236, 0.979);
+}
+
+
+
+.start .logo
+{
+    font-weight: bolder;
+    position: relative;
+    left: -30px;
+}
+
+.start li a
+{
+    text-decoration: none;
+    color: black;
+ margin-left: -21px;
+ margin-right: 48PX;
+ position: relative;
+ left: 721px;
+}
+
+.img p
+{
+    color: black;
+}
+
+.img
+{
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url(https://cdn.pixabay.com/photo/2015/07/02/10/45/waterfall-828948__340.jpg); 
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    margin-top: -20px;
+    background-size: 100% 100%;
+}
+
+
+
+.img p
+{
+    position: relative;
+    top: 150px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: x-large;
+}
+
+.img .title
+{
+    font-size: xx-large ;
+}
+
+.btn1
+{
+
+    background-color: rgba(92, 148, 252, 0.979);
+}
+
+.btn2
+{
+    background-color:transparent;
+}
+
+.btn1, .btn2
+{
+    padding: 10px;
+    position: relative;
+   top: 20px;
+   left: 40px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 150px;
+    color: white; 
+    margin-left: 20px;
+   
+}
+
+
+.midpart
+{
+    position: relative;
+    top: 70px;
+}
+.para p
+{
+text-align: center;
+margin-top: -10px;
+}
+
+.one, .two, .three
+{
+ margin-left: 30px;
+    display: inline-block;
+}
+
+.box1, .box2, .box3
+{
+    border:1px solid grey;
+    height: 250px;
+    width: 300px;
+}
+
+.logo1 i
+{
+    background-color:rgba(92, 148, 252, 0.979) ;
+    border: solid 1px grey;
+    border-radius: 100%;
+    color: white;
+    padding: 30px;
+   
+
+}
+.logo1, i fas fa-chart-area
+{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.logo2 i
+{
+    background-color:rgba(92, 148, 252, 0.979) ;
+    border: solid 1px grey;
+    border-radius: 100%;
+    color: white;
+    padding: 30px;
+   
+
+}
+.logo2, i fas fa-chart-area
+{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.logo3 i
+{
+    background-color:rgba(92, 148, 252, 0.979) ;
+    border: solid 1px grey;
+    border-radius: 100%;
+    color: white;
+    padding: 30px;
+   
+
+}
+.logo3, i fas fa-chart-area
+{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.logos
+{
+    margin-top: 120px;
+    margin-left: 150px;;
+}
+
+.black
+{
+    background-color: black;
+    margin-top: 80px;
+    margin-left: -200px;
+    height: 703px;
+}
+
+.btitle
+{   
+   
+    text-align: center;
+    color: white;
+}
+
+.btitle p
+{
+    margin-top: -11px;
+    font-size: 20px;
+    position: relative;
+    top: 44px;
+}
+
+.first, .second
+{
+    display: inline-block;
+    width: 558px;
+    text-align: center;
+    color: white;
+    margin-top:50px ;
+}
+.first
+{
+    margin-left: -6px;
+}
+
+.second
+{
+    margin-left: 61px
+}
+
+.picone img, .pictwo img
+{
+    border: grey solid 1px;
+    border-radius: 5px;
+    height: 268px;
+    width: 558px;
+    margin-left: 130px;
+}
+
+
+.btn1, .btn2
+{
+ position: relative;
+ top: 156px;
+ left: 485px;  
+}
+
+
+
+
+
+.first p, .second p
+{
+    margin-left: 142px;
+    text-align: center;
+    width: 558px;
+}
+
+
+.leftsidepart
+{
+    margin-top: 40px;
+    margin-left: -58px;
+    width: 813px;
+}
+
+.leftsidepart img
+{
+    height: 300px;
+    width: 800px;
+}
+
+.rightsidepart
+{
+        margin-left: 40px;
+    margin-top: 40px;
+    width: 300px;
+}
+
+.leftsidepart, .rightsidepart
+{
+    display: inline-block;
+}
+
+.rightsidepart .btn
+{
+     background-color: white;
+     color:black;
+     padding: 10px;
+     border: solid 1px grey;
+}
+
+
+.rbar .para
+{
+ font-size: large;
+    text-align: center;
+ margin-top: 60px;
+    top:50px;
+
+}
+
+.btn3, .btn4
+{
+    padding: 10px;
+    border-radius: 5px;
+    border: solid grey 1px;
+    background-color: transparent;
+    color: white;
+    margin-left: 278px;
+    position: relative;
+    top: 23px;
+}
+
+.final
+{
+    opacity: 0.8;
+    margin-top: 40px;
+    background-color: grey;
+    height: 350px;
+    margin-left: -153px;    
+}
+
+
+.fone, .ftwo, .fthree
+{ 
+    margin-left: 100px;
+    margin-top: 40px;
+    color: black;
+       
+    display: inline-block;
+}
+
+.fone, .ftwo
+{
+    width: 200px;
+}
+
+.fthree
+{
+    width: 600px;
+    position: relative;
+    top: -117px;
+}
+
+.fthree i
+{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.home:hover
+{
+    
+    color :rgb(255, 0, 0);
+}
